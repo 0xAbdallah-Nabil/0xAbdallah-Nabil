@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
-<h2> Hey there! I'm Mahmoud.</h2>
+<h2> Hey there! I'm Abdallah.</h2>
 <img width="200" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -11,23 +11,23 @@ I'm a Computers and Control Systems student who is passionate about Embedded Sof
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/abdallah-nabil-126b9b23b/) .
 
 <h3>  &nbsp;🛠️ Languages and Tools:</h3>
-- 💻 &nbsp;
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-- ⚙️ &nbsp;
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-  
-<br/>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### ✨ Visitors 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mahmoud-Karem" alt="0xAbdallah-Nabil" /> </p>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 📊 Profile stats
-[![Abdallah Nabil 's github stats](https://github-readme-stats.vercel.app/api?username=0xAbdallah-Nabil&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/0xAbdallah-Nabil/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xAbdallah-Nabil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xAbdallah-Nabil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
