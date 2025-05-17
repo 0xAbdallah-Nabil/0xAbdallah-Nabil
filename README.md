@@ -3,11 +3,11 @@
 <img width="200" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-I'm a Computers and Control Systems student who is passionate about Embedded Software.
+I'm a Computers and Control Systems student who is passionate about software development.
 
 - 🎓 &nbsp; I’m currently Ungraduated student at Mansoura Unversity.
 - 🎓 &nbsp; Ungraduated : Faculty of Enineering (Computers and Control Systems Department) -Mansoura Unversity.
-- 🌱 &nbsp; Learning more about Microcontrollers , Embedded Sofware , Embedded Linux and autonomous vehicles . 
+- 🌱 &nbsp; Learning more about Microcontrollers , Embedded Sofware , Embedded Linux,autonomous vehicles,Front-End react . 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/abdallah-nabil-126b9b23b/) .
 
 <h3>  &nbsp;🛠️ Languages and Tools:</h3>
