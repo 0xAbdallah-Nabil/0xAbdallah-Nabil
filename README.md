@@ -7,7 +7,7 @@ I'm a Computers and Control Systems student who is passionate about software dev
 
 - 🎓 &nbsp; I’m currently Ungraduated student at Mansoura Unversity.
 - 🎓 &nbsp; Ungraduated : Faculty of Enineering (Computers and Control Systems Department) -Mansoura Unversity.
-- 🌱 &nbsp; Learning more about Microcontrollers , Embedded Sofware , Embedded Linux,autonomous vehicles,Front-End react . 
+- 🌱 &nbsp; Learning more about Microcontrollers , Embedded Sofware , Embedded Linux, autonomous vehicles and Front-End with react . 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/abdallah-nabil-126b9b23b/) .
 
 <h3>  &nbsp;🛠️ Languages and Tools:</h3>
